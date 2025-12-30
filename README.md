@@ -1,4 +1,4 @@
-# SBackdoor mitigation by distance-driven detoxification
+# Backdoor mitigation by distance-driven detoxification
 
 ---
 
